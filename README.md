@@ -19,6 +19,8 @@
 
 ### 🏆 Top Projects
 - [Comprehensive Odoo ERP System - Rosetta Flowers Project](https://github.com/menaaelgndy-hub/Rosetta-Flowers-Odoo-ERP/blob/main/Flower_shop.pdf)
+- [Next Learn - Specialized Professional Training & Odoo ERP Certifications](https://github.com/menaaelgndy-hub/Next-Learn-Odoo-HRMS/blob/main/Odoo%20Project(Next%20Learn).pdf)
+- [BMW Historical Stock Market Analysis (1996-2024) - Data Mining Project](https://github.com/menaaelgndy-hub/BMW-Stock-Analysis/blob/main/BMW%20competitor%20analysis%20.pdf)
   
 ### 📫 Connect with me:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/menna-el-gandy)
