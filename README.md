@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Menna El Gandy 👋
+## Odoo Functional Consultant | Business Analyst
 
-<!--
-**menaaelgndy-hub/menaaelgndy-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=menaelgndy-hub&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-Here are some ideas to get you started:
+### 🛠️ Expertise
+- **ERP System:** Odoo (Functional Specialist)
+- **Specialized Industry:** Automotive Spare Parts Inventory Management
+- **Key Skills:** System Analysis (DFD, ERD), Odoo Website Builder, Data Migration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 Featured Project
+- **Spare Parts Inventory System:** Full Odoo implementation for warehouse management and e-commerce.
+
+### 📫 Connect with me:
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/menna-el-gandy)
