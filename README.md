@@ -18,7 +18,7 @@
 - **Digital Presence:** Established and managed professional social media presence for business branding.
 
 ### 🏆 Top Projects
-- **BMW Dataset Analysis:** Applied Data Mining techniques on BMW datasets for academic insights.
+- **[Comprehensive Odoo ERP System - Rosetta Flowers Project](https://github.com/menaaelgndy-hub/Rosetta-Flowers-Odoo-ERP/blob/main/Flower_shop.pdf)
   
 ### 📫 Connect with me:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/menna-el-gandy)
