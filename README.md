@@ -2,7 +2,7 @@
 ## Odoo Functional Consultant | Business Analyst
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=menaelgndy-hub&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mennaelgndy-hub&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ### 🛠️ Expertise
