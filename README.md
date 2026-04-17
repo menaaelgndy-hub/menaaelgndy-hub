@@ -1,14 +1,14 @@
 # Hi there, I'm Menna El Gandy 👋
-## Odoo Functional Specialist | Business & Systems Analyst
+## Odoo Functional Consultant | Business Analyst
 
 ### 🛠️ Expertise
-- **Odoo ERP:** Functional Training, Inventory & Point of Sale (POS)
-- **System Analysis:** Proficient in DFD, ERD, and Business Workflows
-- **Tools:** Odoo Website Builder, Draw.io for Technical Modeling
+- **Odoo ERP:** Functional Configuration, Inventory Management & POS
+- **Analysis:** Business Workflow Mapping & System Analysis (DFD, ERD)
+- **Implementation:** Setting up Odoo modules to meet business requirements
 
-### 📁 Featured Projects
-- **Automotive Spare Parts System:** Full Odoo implementation for inventory and e-commerce.
-- **Rosetta Flowers:** Technical documentation and Odoo dashboard integration.
+### 📁 Projects
+- **Odoo Spare Parts System:** End-to-end functional setup for inventory and e-commerce.
+- **Rosetta Flowers:** System analysis and functional dashboard configuration in Odoo.
 
 ### 📫 Connect with me:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/menna-el-gandy)
