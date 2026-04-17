@@ -17,5 +17,8 @@
 - **Rosetta Flowers:** System analysis and Odoo functional configuration.
 - **Digital Presence:** Established and managed professional social media presence for business branding.
 
+### 🏆 Top Projects
+- **BMW Dataset Analysis:** Applied Data Mining techniques on BMW datasets for academic insights.
+  
 ### 📫 Connect with me:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/menna-el-gandy)
