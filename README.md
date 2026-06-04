@@ -1,5 +1,5 @@
 # Hi there, I'm Menna El Gandy 👋
-## Odoo Functional Consultant | Business & Data Analyst
+## Junior Odoo Implementer | ERP & Business Analysis
 
 ### 🛠️ Expertise
 - **Odoo ERP:** Functional Configuration, Inventory (Spare Parts) & POS
